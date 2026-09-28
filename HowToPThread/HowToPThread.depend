@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1790559023 source:e:\learning\neu\subjects\junior\padp\howtopthread\main.cpp
+	<iostream>
+	<pthread.h>
+
